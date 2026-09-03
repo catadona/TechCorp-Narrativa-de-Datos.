@@ -1,4 +1,3 @@
-# TechCorp-Narrativa-de-Datos.
 # Narrativa de datos para la transformación digital – TechCorp
 
 ## Descripción
